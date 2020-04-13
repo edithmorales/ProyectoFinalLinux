@@ -1,0 +1,49 @@
+WARN  2020-04-07 15:29:09 unityo (appinfo2) <unknown>:0 g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+WARN  2020-04-07 15:29:09 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+ERROR 2020-04-07 15:29:10 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
+ERROR 2020-04-07 15:29:10 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2020-04-07 15:29:10 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+ERROR 2020-04-07 15:34:15 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2020-04-07 15:34:15 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2020-04-07 15:34:15 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+WARN  2020-04-07 16:23:10 unity <unknown>:0 Unable to fetch children: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.view' on object at path /org/ayatana/bamf/application/391674220
+
+WARN  2020-04-07 16:23:10 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/391674220
+WARN  2020-04-07 16:23:10 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/391674220
+WARN  2020-04-07 16:23:10 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/391674220
+WARN  2020-04-07 16:23:10 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/391674220
+WARN  2020-04-07 16:23:10 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/391674220
+WARN  2020-04-07 16:23:10 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/391674220
+WARN  2020-04-07 16:23:10 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/391674220
+WARN  2020-04-07 16:23:10 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/391674220
+WARN  2020-04-07 16:23:58 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2020-04-07 16:23:58 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x17: Can't open directory
+WARN  2020-04-07 16:27:42 unity <unknown>:0 Unable to fetch children: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.view' on object at path /org/ayatana/bamf/application/391674220
+
+WARN  2020-04-07 16:27:42 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/391674220
+WARN  2020-04-07 19:28:56 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2020-04-08 14:27:31 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2020-04-08 14:27:48 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+
+(nautilus:9515): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:9515): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:9515): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:9515): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:9515): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+WARN  2020-04-08 16:25:30 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2020-04-08 16:25:34 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2020-04-08 16:28:46 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2020-04-13 12:47:49 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
